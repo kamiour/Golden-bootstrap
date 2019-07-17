@@ -23,3 +23,7 @@
   opacity: 0.5;
   z-index: -1;
 }
+
+.jumbotron {
+  padding: 8rem 2rem;
+}
